@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Yury!
-#### Junior frontend developer
+#### Beginning web - developer
 - 🔭 I’m currently working on something coll ✍!
 - 🌱 I recently graduated from the Y.Praktikum!
 - 🤔 I’m looking for help with my future job
 
-Skills: REACT / JS / HTML / CSS
+Skills: JS / HTML / CSS / REACT / VUE
 
 - 🔭 I’m still working on this page. 
 
