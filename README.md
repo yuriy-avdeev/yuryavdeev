@@ -4,7 +4,7 @@
 - 🌱 I recently graduated from the Y.Praktikum!
 - 🤔 I’m looking for help with my future job
 
-Skills: JS / HTML / CSS / REACT / VUE
+Skills: JS / REACT / VUE + Nuxt / HTML / CSS / Node.js
 
 - 🔭 I’m still working on this page. 
 
