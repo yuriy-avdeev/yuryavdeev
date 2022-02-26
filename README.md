@@ -2,7 +2,6 @@
 #### Beginning web - developer
 - 🔭 I’m currently working on something coll ✍!
 - 🌱 I recently graduated from the Y.Praktikum!
-- 🤔 I’m looking for help with my future job
 
 Skills: JS / REACT / VUE + Nuxt / HTML / CSS / Node.js
 
@@ -13,6 +12,6 @@ Skills: JS / REACT / VUE + Nuxt / HTML / CSS / Node.js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuryavdeev&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuryavdeev)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuryavdeev)   -->
 
 ![Profile views](https://gpvc.arturio.dev/yuryavdeev)  
