@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yury!
-#### Beginning web - developer
+#### Web - developer
 - 🔭 I’m currently working on something coll ✍!
 <!-- - 🌱 I recently graduated from the Y.Praktikum! -->
 - 🤔 I’m looking for my future job
