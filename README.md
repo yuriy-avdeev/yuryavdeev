@@ -2,7 +2,7 @@
 #### Web - developer
 - 🔭 I’m currently working on something coll ✍!
 <!-- - 🌱 I recently graduated from the Y.Praktikum! -->
-- 🤔 I’m looking for my future job
+<!-- - 🤔 I’m looking for my future job -->
 
 Skills: JS / HTML / CSS / REACT / VUE + Nuxt / Node.js / Figma
 
